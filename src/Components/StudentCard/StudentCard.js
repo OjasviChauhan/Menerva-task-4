@@ -21,7 +21,7 @@ function StudentCard() {
 
         <div className="card__name">
           <img src="/images/person.png" alt="" />
-          <p>Marvin McKinney</p>
+          <p>Ojasvi Chauhan</p>
           <GroupAddIcon
             style={{
               marginLeft: "auto",
