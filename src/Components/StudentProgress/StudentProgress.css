@@ -1,0 +1,60 @@
+.progress {
+  display: flex;
+  justify-content: space-evenly;
+  width: 578px;
+  height: 190px;
+  background-color: #e5e5e5;
+  margin: 40px;
+  border-radius: 11px;
+  padding-top: 13px;
+}
+
+.progress__attendance {
+  width: 86.62px;
+  height: 86.62px;
+}
+
+.progress__info {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #515151;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.progress__heading {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: capitalize;
+  color: #515151;
+  justify-content: center;
+  padding-bottom: 15px;
+}
+
+.progress__tests {
+  width: 86.62px;
+  height: 86.62px;
+}
+
+.progress__stars {
+  margin-top: 25px;
+}
+
+.progress__rating {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  align-items: center;
+  text-align: center;
+  color: #515151;
+  margin-top: 6px;
+}
